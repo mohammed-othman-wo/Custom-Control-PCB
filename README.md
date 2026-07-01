@@ -2,10 +2,12 @@
 
 Built for a construction company. Safety monitoring system for disability residence bathrooms — PIR-triggered voice communication via custom PCB with 3D-printed enclosure.
 
-![KiCAD](images/PCB.png) ![Hardware](https://img.shields.io/badge/Type-Custom%20PCB-green)
+
+![KiCAD](https://img.shields.io/badge/PCB-KiCAD-blue) ![Hardware](https://img.shields.io/badge/Type-Custom%20PCB-green)
 
 ---
-
+images/PCB.png
+images/PCB.png
 ## Overview
 
 A custom-designed PCB control circuit built for a construction company The system monitors bathroom occupancy in disability residences using a PIR sensor. When motion is detected, it activates a microphone and speaker via relay control, enabling two-way voice communication for emergency response.
