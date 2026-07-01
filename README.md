@@ -1,4 +1,4 @@
-# 🔌 Custom Control PCB
+# Custom Control PCB
 
 Built for a construction company. Safety monitoring system for disability residence bathrooms — PIR-triggered voice communication via custom PCB with 3D-printed enclosure.
 
