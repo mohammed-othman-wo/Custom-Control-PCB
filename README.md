@@ -1,14 +1,14 @@
-# 🔌 Custom Control PCB — Mimar Najd Co.
+#  Custom Control PCB
 
-Safety monitoring system for disability residence bathrooms — PIR-triggered voice communication via custom PCB with 3D-printed enclosure.
+Built for a construction company. Safety monitoring system for disability residence bathrooms — PIR-triggered voice communication via custom PCB with 3D-printed enclosure.
 
-![KiCAD](https://img.shields.io/badge/PCB-KiCAD-blue) ![Hardware](https://img.shields.io/badge/Type-Custom%20PCB-green) ![Client](https://img.shields.io/badge/Client-Mimar%20Najd%20Co.-orange)
+![KiCAD](https://img.shields.io/badge/PCB-KiCAD-blue) ![Hardware](https://img.shields.io/badge/Type-Custom%20PCB-green)
 
 ---
 
 ## Overview
 
-A custom-designed PCB control circuit built for Mimar Najd Co. The system monitors bathroom occupancy in disability residences using a PIR sensor. When motion is detected, it activates a microphone and speaker via relay control, enabling two-way voice communication for emergency response.
+A custom-designed PCB control circuit built for a construction company The system monitors bathroom occupancy in disability residences using a PIR sensor. When motion is detected, it activates a microphone and speaker via relay control, enabling two-way voice communication for emergency response.
 
 Full project ownership: schematic design, PCB layout, BOM selection, component sourcing, and custom enclosure design and 3D printing.
 
@@ -62,13 +62,3 @@ Two-way voice communication enabled
 Staff notified of potential emergency
 ```
 
----
-
-## Files
-
-```
-/schematic    → KiCAD schematic files
-/pcb          → PCB layout + Gerber files
-/bom          → Bill of materials
-/enclosure    → SolidWorks + STL files
-```
