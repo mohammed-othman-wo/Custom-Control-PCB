@@ -6,7 +6,7 @@ Built for a construction company. Safety monitoring system for disability reside
 ![KiCAD](https://img.shields.io/badge/PCB-KiCAD-blue) ![Hardware](https://img.shields.io/badge/Type-Custom%20PCB-green)
 
 ---
-images/PCB.png
+
 images/PCB.png
 ## Overview
 
@@ -15,6 +15,9 @@ A custom-designed PCB control circuit built for a construction company The syste
 Full project ownership: schematic design, PCB layout, BOM selection, component sourcing, and custom enclosure design and 3D printing.
 
 ---
+
+![Device](images/PCB.png)
+
 
 ## Features
 
@@ -37,6 +40,8 @@ Full project ownership: schematic design, PCB layout, BOM selection, component s
 | Enclosure | Custom 3D-printed |
 
 ---
+
+![PCB](images/PCB1.png)
 
 ## Project Scope
 
